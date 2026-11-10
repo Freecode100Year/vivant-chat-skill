@@ -1,0 +1,14 @@
+{
+  "name": "vivant-chat",
+  "version": "1.0.0",
+  "description": "Comprehensive skill and toolkit for interacting with and developing bots for the VIVANT SSH-based anonymous terminal chatroom.",
+  "author": {
+    "name": "Freecode100Year",
+    "url": "https://github.com/Freecode100Year"
+  },
+  "homepage": "https://github.com/Freecode100Year/vivant-chat-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Freecode100Year/vivant-chat-skill"
+  }
+}
